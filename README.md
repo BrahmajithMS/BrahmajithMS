@@ -4,7 +4,7 @@
 - 💞️ I’m in love with frontend development
 - 📚 I’m constantly learning new skills and striving for progress
 - ⚡ Motto: Keep striving for progress, not perfection
-- 
+
 
 <!---
 BrahmajithMS/BrahmajithMS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
