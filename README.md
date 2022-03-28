@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brahmajith M S
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning full stack development
+- 🌱 I’m currently growing my developing skills
 - 💞️ I’m in love with frontend development
 - 📚 I’m constantly learning new skills and striving for progress
 - ⚡ Motto: Keep striving for progress, not perfection
